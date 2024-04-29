@@ -1,0 +1,403 @@
+
+
+track minus
+shortLabel minus
+longLabel minus
+type bigWig
+autoScale on
+visibility full
+compositeTrack on
+
+    track G0_Nucl_rep1.str2
+    parent minus on
+    bigDataUrl CAGE/G0_Nucl_rep1.str2.bw
+    shortLabel G0_Nucl_rep1.str2
+    longLabel G0_Nucl_rep1.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track G0_Nucl_rep2.str2
+    parent minus on
+    bigDataUrl CAGE/G0_Nucl_rep2.str2.bw
+    shortLabel G0_Nucl_rep2.str2
+    longLabel G0_Nucl_rep2.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track G0_Tot_rep1.str2
+    parent minus on
+    bigDataUrl CAGE/G0_Tot_rep1.str2.bw
+    shortLabel G0_Tot_rep1.str2
+    longLabel G0_Tot_rep1.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track G0_Tot_rep2.str2
+    parent minus on
+    bigDataUrl CAGE/G0_Tot_rep2.str2.bw
+    shortLabel G0_Tot_rep2.str2
+    longLabel G0_Tot_rep2.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track G1_Nucl_rep1.str2
+    parent minus on
+    bigDataUrl CAGE/G1_Nucl_rep1.str2.bw
+    shortLabel G1_Nucl_rep1.str2
+    longLabel G1_Nucl_rep1.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track G1_Nucl_rep2.str2
+    parent minus on
+    bigDataUrl CAGE/G1_Nucl_rep2.str2.bw
+    shortLabel G1_Nucl_rep2.str2
+    longLabel G1_Nucl_rep2.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track G1_Tot_rep1.str2
+    parent minus on
+    bigDataUrl CAGE/G1_Tot_rep1.str2.bw
+    shortLabel G1_Tot_rep1.str2
+    longLabel G1_Tot_rep1.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track G1_Tot_rep2.str2
+    parent minus on
+    bigDataUrl CAGE/G1_Tot_rep2.str2.bw
+    shortLabel G1_Tot_rep2.str2
+    longLabel G1_Tot_rep2.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track G2_Nucl_rep1.str2
+    parent minus on
+    bigDataUrl CAGE/G2_Nucl_rep1.str2.bw
+    shortLabel G2_Nucl_rep1.str2
+    longLabel G2_Nucl_rep1.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track G2_Nucl_rep2.str2
+    parent minus on
+    bigDataUrl CAGE/G2_Nucl_rep2.str2.bw
+    shortLabel G2_Nucl_rep2.str2
+    longLabel G2_Nucl_rep2.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track G2_Tot_rep1_trimmed.str2
+    parent minus on
+    bigDataUrl CAGE/G2_Tot_rep1_trimmed.str2.bw
+    shortLabel G2_Tot_rep1_trimmed.str2
+    longLabel G2_Tot_rep1_trimmed.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track G2_Tot_rep2_trimmed.str2
+    parent minus on
+    bigDataUrl CAGE/G2_Tot_rep2_trimmed.str2.bw
+    shortLabel G2_Tot_rep2_trimmed.str2
+    longLabel G2_Tot_rep2_trimmed.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track S_Nucl_rep1.str2
+    parent minus on
+    bigDataUrl CAGE/S_Nucl_rep1.str2.bw
+    shortLabel S_Nucl_rep1.str2
+    longLabel S_Nucl_rep1.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track S_Nucl_rep2.str2
+    parent minus on
+    bigDataUrl CAGE/S_Nucl_rep2.str2.bw
+    shortLabel S_Nucl_rep2.str2
+    longLabel S_Nucl_rep2.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track S_Tot_rep1.str2
+    parent minus on
+    bigDataUrl CAGE/S_Tot_rep1.str2.bw
+    shortLabel S_Tot_rep1.str2
+    longLabel S_Tot_rep1.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track S_Tot_rep2.str2
+    parent minus on
+    bigDataUrl CAGE/S_Tot_rep2.str2.bw
+    shortLabel S_Tot_rep2.str2
+    longLabel S_Tot_rep2.str2
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+
+track plus
+shortLabel plus
+longLabel plus
+type bigWig
+autoScale on
+visibility full
+compositeTrack on
+
+    track G0_Nucl_rep1.str1
+    parent plus on
+    bigDataUrl CAGE/G0_Nucl_rep1.str1.bw
+    shortLabel G0_Nucl_rep1.str1
+    longLabel G0_Nucl_rep1.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track G0_Nucl_rep2.str1
+    parent plus on
+    bigDataUrl CAGE/G0_Nucl_rep2.str1.bw
+    shortLabel G0_Nucl_rep2.str1
+    longLabel G0_Nucl_rep2.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track G0_Tot_rep1.str1
+    parent plus on
+    bigDataUrl CAGE/G0_Tot_rep1.str1.bw
+    shortLabel G0_Tot_rep1.str1
+    longLabel G0_Tot_rep1.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track G0_Tot_rep2.str1
+    parent plus on
+    bigDataUrl CAGE/G0_Tot_rep2.str1.bw
+    shortLabel G0_Tot_rep2.str1
+    longLabel G0_Tot_rep2.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track G1_Nucl_rep1.str1
+    parent plus on
+    bigDataUrl CAGE/G1_Nucl_rep1.str1.bw
+    shortLabel G1_Nucl_rep1.str1
+    longLabel G1_Nucl_rep1.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track G1_Nucl_rep2.str1
+    parent plus on
+    bigDataUrl CAGE/G1_Nucl_rep2.str1.bw
+    shortLabel G1_Nucl_rep2.str1
+    longLabel G1_Nucl_rep2.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track G1_Tot_rep1.str1
+    parent plus on
+    bigDataUrl CAGE/G1_Tot_rep1.str1.bw
+    shortLabel G1_Tot_rep1.str1
+    longLabel G1_Tot_rep1.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track G1_Tot_rep2.str1
+    parent plus on
+    bigDataUrl CAGE/G1_Tot_rep2.str1.bw
+    shortLabel G1_Tot_rep2.str1
+    longLabel G1_Tot_rep2.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track G2_Nucl_rep1.str1
+    parent plus on
+    bigDataUrl CAGE/G2_Nucl_rep1.str1.bw
+    shortLabel G2_Nucl_rep1.str1
+    longLabel G2_Nucl_rep1.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track G2_Nucl_rep2.str1
+    parent plus on
+    bigDataUrl CAGE/G2_Nucl_rep2.str1.bw
+    shortLabel G2_Nucl_rep2.str1
+    longLabel G2_Nucl_rep2.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track G2_Tot_rep1_trimmed.str1
+    parent plus on
+    bigDataUrl CAGE/G2_Tot_rep1_trimmed.str1.bw
+    shortLabel G2_Tot_rep1_trimmed.str1
+    longLabel G2_Tot_rep1_trimmed.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track G2_Tot_rep2_trimmed.str1
+    parent plus on
+    bigDataUrl CAGE/G2_Tot_rep2_trimmed.str1.bw
+    shortLabel G2_Tot_rep2_trimmed.str1
+    longLabel G2_Tot_rep2_trimmed.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track S_Nucl_rep1.str1
+    parent plus on
+    bigDataUrl CAGE/S_Nucl_rep1.str1.bw
+    shortLabel S_Nucl_rep1.str1
+    longLabel S_Nucl_rep1.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track S_Nucl_rep2.str1
+    parent plus on
+    bigDataUrl CAGE/S_Nucl_rep2.str1.bw
+    shortLabel S_Nucl_rep2.str1
+    longLabel S_Nucl_rep2.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track S_Tot_rep1.str1
+    parent plus on
+    bigDataUrl CAGE/S_Tot_rep1.str1.bw
+    shortLabel S_Tot_rep1.str1
+    longLabel S_Tot_rep1.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track S_Tot_rep2.str1
+    parent plus on
+    bigDataUrl CAGE/S_Tot_rep2.str1.bw
+    shortLabel S_Tot_rep2.str1
+    longLabel S_Tot_rep2.str1
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
